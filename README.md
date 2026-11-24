@@ -1,7 +1,7 @@
 # こんにちは、久保田淳一 です 👋
 
 COACHTECH でフルスタックWeb開発を学習中のWeb系エンジニア志望です。
-<ユーザーの体験を考えながらサービスを作ることに興味があります。>
+- PHP・Laravelを学習中です。API開発やWebアプリケーション開発を通して、実践的なスキルを身につけています。
 
 ## 🛠️ 使える技術
 
@@ -14,17 +14,30 @@ COACHTECH でフルスタックWeb開発を学習中のWeb系エンジニア志�
 
 COACHTECH 教材のハンズオンで作成したリポジトリです。
 
-<!-- ↓ Tutorial 5〜11 で push した自分のリポジトリへのリンクを並べる。
-     並べ方は自由（後述の TIP 参照）。「特に頑張ったもの」を上に持ってくるのもあり。 -->
-
-- [task-api-practice](https://github.com/<あなた>/task-api-practice) — タスク管理APIのCRUD実装（Laravel + REST API）
-- [auth-app-practice](https://github.com/<あなた>/auth-app-practice) — 認証機能の実装（Laravel Fortify）
-- [self-introduction-practice](https://github.com/<あなた>/self-introduction-practice) — 自己紹介ページ（HTML5）
-- ...（他のリポジトリも同じ要領で並べる）
+- [self-introduction-practice](https://github.com/jun-kubota88/self-introduction-practice) — 自己紹介ページ（HTML5）
+- [php-control-practice](https://github.com/jun-kubota88/php-control-practice) — if・elseif・else を使った条件分岐（PHP 8）
+- [php-form-practice](https://github.com/jun-kubota88/php-form-practice) — HTMLフォームから PHP に値を渡す仕組み（PHP 8）
+- [php-oop-practice](https://github.com/jun-kubota88/php-oop-practice) — クラスを定義してオブジェクトを生成する基本的な書き方（PHP 8）
+- [php-basics-practice](https://github.com/jun-kubota88/php-basics-practice) — オンラインショップの商品価格を計算するプログラムを作成（PHP 8）
+- [profile-app-practice](https://github.com/jun-kubota88/profile-app-practice) — プロフィールページ（Laravel 10）
+- [blade-app-practice](https://github.com/jun-kubota88/blade-app-practice) — 商品一覧ページ（Laravel 10）
+- [database-app-practice](https://github.com/jun-kubota88/database-app-practice) — 商品管理システムのデータベース構築（Laravel 10）
+- [eloquent-app-practice](https://github.com/jun-kubota88/eloquent-app-practice) — ブログシステムのモデル作成（Laravel 10）
+- [relation-app-practice](https://github.com/jun-kubota88/relation-app-practice) — リレーションを使ったブログシステム（Laravel 10）
+- [validation-app-practice](https://github.com/jun-kubota88/validation-app-practice) — ユーザー登録フォームのバリデーション（Laravel 10）
+- [auth-app-practice](https://github.com/jun-kubota88/auth-app-practice) — 認証機能（Laravel Fortify）
+- [middleware-app-practice](https://github.com/jun-kubota88/middleware-app-practice) — ミドルウェア（Laravel Fortify）
+- [authorization-app-practice](https://github.com/jun-kubota88/authorization-app-practice) — 認可機能（Laravel Fortify）
+- [debugging-app-practice](https://github.com/jun-kubota88/debugging-app-practice) — デバッグ（Laravel Fortify）
+- [testing-app-practice](https://github.com/jun-kubota88/testing-app-practice) — テスト（Laravel Fortify）
+- [security-app-practice](https://github.com/jun-kubota88/security-app-practice) — Webセキュリティ（Laravel Fortify）
+- [api-setup-practice](https://github.com/jun-kubota88/api-setup-practice) — API開発環境の構築と疎通確認（Laravel + REST API）
+- [task-crud-practice](https://github.com/jun-kubota88/task-crud-practice) — タスク管理APIのCRUD実装（Laravel + REST API）
 
 ## 🌱 これから挑戦したいこと
 
-<チームで価値あるWebサービスを作れるエンジニアになりたいです。最近は API 設計に興味があります。>
+- Laravelを使ったWeb開発やAPI開発の理解を深め、チームで価値あるサービスを開発できるエンジニアを目指しています。
+- API開発やWebアプリケーション開発の経験を積み、ユーザーに価値を届けられるエンジニアを目指しています。
 
 ## 📫 連絡先・リンク
 
